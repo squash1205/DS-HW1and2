@@ -9,3 +9,4 @@ def findLargestNum(toBeFind):
 
 findLargestNum([1000, 1001, 857, 1])
 findLargestNum([10000, 1000, 100, 10, 1, 0, -1])
+findLargestNum([-1,-2,-3])
