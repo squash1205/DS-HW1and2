@@ -51,7 +51,6 @@ node5.nextval = node6
 
 # 打印检查节点是否正确连接
 list1.listprint()
-print("\n")
-
 # 打印最大值
+print("最大值为：")
 list1.maxValue()
